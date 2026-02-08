@@ -1,0 +1,5 @@
+# requirements.txt
+gradio==4.44.0
+transformers==4.45.1
+torch==2.4.1
+accelerate==0.33.0
